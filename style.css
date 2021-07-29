@@ -1,3 +1,11 @@
+
+.txt-author{
+    color:#23A6F0;
+}
+.txt-secondary{
+    color:#E76F51;
+}
+
 .bg-banner{
     background-color:#264653 ;
 }
@@ -6,11 +14,18 @@
     background-color:#E76F51;
     color: white;
 }
-
-.txt-secondary{
-    color:#E76F51;
+.btn-outline-warning{
+    color: #E76F51;
+    border-color: #E76F51;
 }
 
 .gray-scale {
     filter: grayscale(100%);
+  }
+  
+.fa-star{
+    color: #E76F51
+}
+  .fill{
+      color: #E76F51;
   }
