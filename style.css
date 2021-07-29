@@ -22,10 +22,11 @@
 .gray-scale {
     filter: grayscale(100%);
   }
-  
+
 .fa-star{
     color: #E76F51
 }
-  .fill{
+
+.fill{
       color: #E76F51;
   }
