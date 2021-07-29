@@ -1,14 +1,16 @@
 .bg-banner{
     background-color:#264653 ;
 }
+
 .btn-clr-primary{
     background-color:#E76F51;
     color: white;
 }
 
-.txt-primary{
+.txt-secondary{
     color:#E76F51;
 }
+
 .gray-scale {
     filter: grayscale(100%);
   }
